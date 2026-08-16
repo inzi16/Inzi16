@@ -38,6 +38,7 @@ I'm a full-stack developer who enjoys taking ideas from a clean frontend to a re
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
@@ -49,6 +50,8 @@ I'm a full-stack developer who enjoys taking ideas from a clean frontend to a re
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logoColor=white)
 
 ### AI and machine learning
 
@@ -57,6 +60,8 @@ I'm a full-stack developer who enjoys taking ideas from a clean frontend to a re
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ### DevOps, cloud and testing
 
@@ -69,16 +74,19 @@ I'm a full-stack developer who enjoys taking ideas from a clean frontend to a re
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
 ## Featured projects
 
 | Project | What it demonstrates |
 | --- | --- |
-| [SkyCommand](https://github.com/inzi16/AI-Powered-Air-Traffic-Control-ATC) | Real-time aviation digital twin, deterministic simulation, WebSocket telemetry, conflict prediction and multimodal AI assistance. |
-| [Executive Intelligence Platform](https://github.com/inzi16/executive-intelligence-platform) | Enterprise RAG, multi-agent coordination, document processing, forecasting, RBAC and asynchronous workflows. |
-| [Mercury Exchange](https://github.com/inzi16/Mercury-Finance-Exchange-) | Matching-engine design, pre-trade risk controls, event sourcing, market-data streaming and observability. |
-| [AP Assistant](https://github.com/inzi16/Accounts-Payable-Email-Assistant) | Privacy-conscious browser automation, OCR-backed document processing and structured decision support. |
+| [SkyCommand](https://github.com/inzi16/SkyCommand) | Real-time aviation digital twin, deterministic simulation, WebSocket telemetry, conflict prediction and multimodal assistance. |
+| [Meridian](https://github.com/inzi16/Meridian) | Enterprise RAG, multi-agent coordination, document processing, forecasting, RBAC and asynchronous workflows. |
+| [Mercury Exchange](https://github.com/inzi16/Mercury-Finance-Exchange) | Matching-engine design, pre-trade risk controls, event sourcing, market-data streaming and observability. |
+| [Clove](https://github.com/inzi16/Clove) | Semantic candidate search, explainable scoring, tenant-aware hiring pipelines and interview scheduling. |
+| [Draftwise](https://github.com/inzi16/draftwise) | Source-aware writing, research management, autosaving, assisted drafting and Markdown or HTML export. |
+| [AP Assistant](https://github.com/inzi16/Accounts-Payable-Email-Assistant) | Reviews AP emails and attachments, highlights exceptions, extracts evidence and suggests appropriate next steps. |
 
 ## GitHub activity
 
